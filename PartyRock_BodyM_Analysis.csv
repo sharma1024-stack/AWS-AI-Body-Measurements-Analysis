@@ -1,0 +1,11 @@
+Metric_Type,Parameter,Value_or_Coefficient,Unit_or_Classification
+Overall,Average Height,170.57,cm
+Overall,Average Weight,74.29,kg
+Overall,Total Subjects,2505.0,count
+Gender_Demographic,Female Split,163.24,"cm (Avg Height, 66.35kg Avg Weight)"
+Gender_Demographic,Male Split,176.17,"cm (Avg Height, 80.35kg Avg Weight)"
+Correlation,Chest Girth vs Weight,0.915,Extremely Strong Correlation
+Correlation,Waist Girth vs Weight,0.913,Extremely Strong Correlation
+Proportion_Trend,Short Stature (<160cm),45.17,% Leg-to-Height Ratio
+Proportion_Trend,Average Stature (160-180cm),45.62,% Leg-to-Height Ratio
+Proportion_Trend,Tall Stature (>=180cm),45.75,% Leg-to-Height Ratio
